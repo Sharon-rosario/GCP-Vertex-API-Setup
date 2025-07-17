@@ -1,0 +1,23 @@
+# Environment variables
+.env
+
+# Service account key
+*.json
+
+# Python virtual environment
+vertex_env/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE and editor files
+.vscode/
+.idea/
+
+# Miscellaneous
+*.log
+*.bak
+*.swp
